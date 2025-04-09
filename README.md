@@ -22,14 +22,6 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** and current **MCA 
 - Integrated **AI image generation** & optimized API calls, boosting efficiency by 40%
 - Designed intuitive **wireframes and prototypes** in Figma
 
-## 💻 Projects
-
-### 🔸 Auto Wealth: Smart Investment & Loan Calculator
-> A modular platform with 15+ calculators for SIP, Lumpsum, EMI, and more.
-
-- Supports **file uploads**, **dynamic sidebar**, and **personalized calculations**
-- Built using **React.js, Tailwind CSS, Bootstrap, Git**, and **Figma**
-- Optimized for full **responsiveness**, increasing retention by 25%
 
 🔗 Live Demo / GitHub links coming soon...
 
